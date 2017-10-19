@@ -124,3 +124,7 @@ var s = people.next.next.next.name;
 ### 别名 和 接口 的区别
 - 别名可以像接口一样用于定义类型
 - 别名不能被extends 和 implements
+
+### class
+- readonly 修饰的属性只能在定义时或者构造函数中初始化
+- x** 表示x的平方
